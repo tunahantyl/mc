@@ -10,7 +10,8 @@ public class MultiClient
 	public static void main(String[] args)
 	{
 		try
-		{
+		{ahmeeeed
+
 			//host = InetAddress.getByName("ktuceng-pc"); //  "ServerName" : 
 			host = InetAddress.getLocalHost();
 		}
