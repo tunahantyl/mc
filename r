@@ -18,7 +18,7 @@ class Resource
 	}
 	
 	public synchronized void addOne()
-	{
+	{dfgdfgdfgd
 		try
 		{
 			while (stack.size() >= MAX)
